@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.DesingPattern", "TemplateMethod.DesingPattern\TemplateMethod.DesingPattern.csproj", "{76DBEC0C-4424-4004-90AD-7D838FD4322A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod.DesingPattern", "TemplateMethod.DesingPattern\TemplateMethod.DesingPattern.csproj", "{76DBEC0C-4424-4004-90AD-7D838FD4322A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional.TemplateMethod", "Functional.TemplateMethod\Functional.TemplateMethod.csproj", "{4AFE141A-0A46-46BA-9FA5-C2E3E05FE29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{76DBEC0C-4424-4004-90AD-7D838FD4322A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DBEC0C-4424-4004-90AD-7D838FD4322A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DBEC0C-4424-4004-90AD-7D838FD4322A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFE141A-0A46-46BA-9FA5-C2E3E05FE29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFE141A-0A46-46BA-9FA5-C2E3E05FE29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFE141A-0A46-46BA-9FA5-C2E3E05FE29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFE141A-0A46-46BA-9FA5-C2E3E05FE29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
